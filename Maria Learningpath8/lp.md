@@ -8,5 +8,4 @@ license: Apache
 scenarioCount: 2
 scenarios:
   - Maria Scenario8a
-  - Maria Scenario8b
 title: Maria Learningpath8
