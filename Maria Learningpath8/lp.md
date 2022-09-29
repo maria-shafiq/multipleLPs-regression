@@ -5,7 +5,7 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
+scenarioCount: 1
 scenarios:
   - Maria Scenario8a
 title: Maria Learningpath8
